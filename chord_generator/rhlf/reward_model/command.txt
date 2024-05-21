@@ -1,0 +1,1 @@
+python3 trainer.py --batch_size 128 --learning_rate 3e-4 --epochs 20
